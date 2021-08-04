@@ -1,0 +1,38 @@
+* text=auto
+*.css linguist-vendored
+*.scss linguist-vendored
+*.js linguist-vendored
+*.php text eol=lf
+*.yml text eol=lf
+*.sh text eol=lf
+composer.lock text eol=lf
+.gitattribute text eol=lf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.mov binary
+*.mp4 binary
+*.mp3 binary
+*.flv binary
+*.fla binary
+*.swf binary
+*.gz binary
+*.zip binary
+*.7z binary
+*.ttf binary
+*.eot binary
+*.woff binary
+*.pyc binary
+*.pdf binary
+*.ez binary
+*.bz2 binary
+*.swp binary
+*.sln text eol=crlf
+web.config text eol=crlf
+*.asp text eol=crlf
+*.aspx text eol=crlf
+*.bat text eol=crlf
+*.svg		-text
+CHANGELOG.md export-ignore
