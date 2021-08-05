@@ -13,9 +13,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["src/assets/*"],
     "ios": {
       "bundleIdentifier": "com.tastelab.pos",
       "supportsTablet": true,
